@@ -17,6 +17,7 @@ Outside of my degree, I've spent a couple of years in retail (Home Bargains, Asd
 Long term, I'm aiming towards a career as a SOC analyst.
 
 **Let's connect:**
+- 🌐 [Personal site](https://larienmartin.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/larien-martin-150468293/)
 
-Always happy to chat with anyone further along a similar path, feel free to reach out.
+Always happy to chat with anyone further along a similar path — feel free to reach out.
