@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Larien 👋
 
-<!--
-**Larien90/Larien90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc (Hons) Cybersecurity student at the University of Worcester, currently heading into Year 2.
 
-Here are some ideas to get you started:
+Interested in:
+- 🛡️ SOC / Blue Team work
+- 🔍 Digital forensics
+- 🌐 Network security fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- 📚 Building on Year 1 foundations (IT systems, programming basics, intro to cybersecurity)
+- 🧩 Working through TryHackMe rooms
+- 📝 Writing up notes and small projects as I learn
+
+Outside of my degree, I've spent a couple of years in retail (Home Bargains, Asda), which taught me a lot about staying calm under pressure and solving problems on the spot.
+
+Long term, I'm aiming towards a career as a SOC analyst.
+
+**Let's connect:**
+- 💼 [LinkedIn](https://www.linkedin.com/in/larien-martin-150468293/)
+
+Always happy to chat with anyone further along a similar path, feel free to reach out.
